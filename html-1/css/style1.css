@@ -1,0 +1,13 @@
+#home{
+    color: darkblue;
+}
+#office{
+    color: darkgreen;
+}
+
+.todo{
+    color: darkmagenta;
+}
+.done{
+    color: darkseagreen;
+}
